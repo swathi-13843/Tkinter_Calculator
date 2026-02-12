@@ -34,3 +34,4 @@ tk.Button(root,font=("bold",20),text="C",
           command=clear,bg="red",fg="white",bd=0,width=5,height=2).grid(row=r,column=c,columnspan=1,padx=6,pady=6)
           
 root.mainloop()
+
